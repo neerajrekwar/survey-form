@@ -54,6 +54,7 @@ form{
 }
 
 #checklist label::before {
+  
   height: 2px;
   width: 8px;
   left: -27px;
