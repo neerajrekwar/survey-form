@@ -3,17 +3,17 @@
   padding: 0;
   box-sizing: border-box;
   font-weight: 400;
-  
+  font-family: "alata",  sans-serif;
 }
 main {
-  border: solid gold;
+  /* border: solid gold; */
   place-items: center;
   
 }
 form{
   display: flex;
   justify-content: center;
-  border: solid rgb(92, 83, 29);
+  /* border: solid rgb(92, 83, 29); */
 }
 #checklist {
   --background: #fff;
